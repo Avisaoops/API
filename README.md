@@ -120,18 +120,7 @@ your-repo/
 ├── README.md              # Project documentation
 └── .env                   # Environment variables
 
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-markdown
-
-
-### Customizing the README
-
-1. **Replace placeholders** like `yourusername/your-repo` and database details.
-2. **Add additional sections** if your project has specific setup steps, like database migrations or Docker.
-3. **Project-specific information** like models, routes, and services can be added to provide further documentation.
 
 This template should give a solid start for a FastAPI project README.
 
